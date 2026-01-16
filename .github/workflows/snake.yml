@@ -1,24 +1,10 @@
-name: Generate Snake Animation
+name: Test Workflow
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  generate:
+  test:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: gustafe7
-          outputs: |
-            github-contribution-grid-snake.svg
-            github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Commit files
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Generate snake animation"
-          file_pattern: github-contribution-grid-snake*.svg
+      - run: echo "Workflow funcionando"
