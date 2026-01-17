@@ -23,7 +23,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           # GitHub username to generate the animation for
-          gustafe7: ${{ github.repository_owner }}
+          github_user_nsame: ${{ github.repository_owner }}
           # Define the output files and their configurations
           outputs: |
             dist/github-snake.svg
