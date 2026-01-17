@@ -1,6 +1,7 @@
 ### Olá! Eu sou Gustavo Gomes 👋
 
   **`Desenvolvedor Web Júnior (Back-end) em formação`**  
+
 📍 Rio de Janeiro - RJ  
 
 Atualmente estudando **Python**, **JavaScript** e **lógica de programação**, com foco em desenvolvimento web back-end.  
