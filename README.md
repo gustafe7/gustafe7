@@ -26,5 +26,5 @@ Atualmente estudando **Python**, **JavaScript** e **lógica de programação**, 
 <a href = "mailto:gustavocjr.gg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gusgferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  
+![Snake animation](https://github.com/gustafe7/gustafe7/blob/output/github-contribution-grid-snake-dark.svg)
 
