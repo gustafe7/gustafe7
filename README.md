@@ -24,6 +24,8 @@ Atualmente estudando **Python**, **JavaScript** e **lógica de programação**, 
 
 <div align="center">
 
+| | |
+|---|---|
 | <img src="https://github-stats-alpha.vercel.app/api?username=gustafe7&cc=000&tc=4CAF50&ic=fff&bc=000"/> | <img src="https://streak-stats.demolab.com?user=gustafe7&theme=dark&locale=pt_BR"/> |
 
 </div>
