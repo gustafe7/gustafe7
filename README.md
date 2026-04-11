@@ -1,6 +1,6 @@
 ### Olá! Eu sou Gustavo Gomes 👋
 
-  **`Desenvolvedor Web (Back-end) em formação`**  
+  **`Desenvolvedor Web (Back-end)`**  
 
 📍 Rio de Janeiro - RJ  
 
