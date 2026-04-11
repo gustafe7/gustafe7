@@ -23,10 +23,10 @@ Atualmente estudando **Python**, **JavaScript** e **lógica de programação**, 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustafe7&layout=compact&langs_count=7&theme=dark&v=2"/>
+  <img height="180em" src="https://readme-stats.deno.dev/api?username=gustafe7&show_icons=true&theme=dark"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=gustafe7&theme=dark&locale=pt_BR"/>
 </div>
-  ##
+##
 
 <div> 
  
