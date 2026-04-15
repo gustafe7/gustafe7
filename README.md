@@ -7,7 +7,7 @@
 Atualmente estudando **Python**, **JavaScript** e **lógica de programação**, com foco em desenvolvimento web back-end.  
 
 ### 🚀 Tecnologias
-- Python - Flask - Django - Banco de Dados - HTML - JavaScript - CSS 
+- Python - Flask - Django - MySQL - SQLite - PostgreSQL - HTML - JavaScript - CSS 
 
 ### 📚 Em aprendizado
 - Back-end com Python - APIs - Boas práticas de programação
