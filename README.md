@@ -12,6 +12,7 @@ Atualmente estudando **Python**, **JavaScript** e **lógica de programação**, 
 ### 📚 Em aprendizado
 - Back-end com Python - APIs - Boas práticas de programação
 
+
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" style="margin-right: 15px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" style="margin-right: 15px;">
