@@ -4,7 +4,7 @@
 
 📍 Rio de Janeiro - RJ  
 
-Atualmente estudando **Python**, **JavaScript** e **lógica de programação**, com foco em desenvolvimento web back-end.  
+Atualmente estudando **Python**, **JavaScript** e **lógica de programação**, com foco em desenvolvimento back-end.  
 
 ### 🚀 Tecnologias
 - Python - Flask - Django -  FastAPI - MySQL - SQLite - PostgreSQL - HTML - JavaScript - CSS 
